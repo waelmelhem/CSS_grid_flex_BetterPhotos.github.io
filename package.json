@@ -1,0 +1,14 @@
+{
+  "name": "p2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass --watch --no-source-map main.scss style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.63.6"
+  }
+}
